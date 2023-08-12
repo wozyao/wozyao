@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning flutter | swiftUI
+- 🌱 I’m currently learning Flutter | Swift UI
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=wozyao&show_icons=true&icon_color=CE1D2D&text_color=5594f1&bg_color=ffffff&hide_title=true" />
